@@ -2,6 +2,8 @@
 A sentiment analysis app to detect the user's feelings through their journal entry. Created for [HackViolet 2021](https://devpost.com/software/beautifly). 
 The sentiment analysis model automatically analyzes the user's feelings based on their journal entry to figure out how they are feeling that day and prompt users to reach out to their circle if they are feeling down. Coded with Node.js. 
 
+Source code for iOS App can be found [here](https://github.com/SaiG18/Beautifly). Source code for using Google Cloud AI APIs with Node.js can be found [here](https://github.com/liuhh02/hackviolet-gcp).
+
 ## Preprocessing ##
 1. Handling the negation of words
 2. Tokenization
